@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rly"]
+	path = rly
+	url = https://github.com/systemincloud/rly
+	shallow = true
+	registered = true
+[submodule "thriftr"]
+	path = thriftr
+	url = https://github.com/systemincloud/thriftr
+	shallow = true
+	registered = true

@@ -1,0 +1,10 @@
+[
+  {
+    "package": "rly",
+    "oncran": true
+  },
+  {
+    "package": "thriftr",
+    "oncran": true
+  }
+]
